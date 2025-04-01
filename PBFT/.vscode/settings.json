@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "pbft.h": "c",
+        "sha2.h": "c",
+        "unistd.h": "c",
+        "config.h": "c",
+        "socket.h": "c",
+        "stdlib.h": "c",
+        "pthread.h": "c",
+        "time.h": "c",
+        "comm.h": "c",
+        "uecc.h": "c"
+    }
+}

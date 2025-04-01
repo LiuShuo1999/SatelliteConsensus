@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "config.h": "c",
+        "core.h": "c",
+        "bls_bn254.h": "c",
+        "stdlib.h": "c",
+        "ipc.h": "c",
+        "pair_bn254.h": "c",
+        "string.h": "c",
+        "sha2.h": "c",
+        "types.h": "c",
+        "inet.h": "c",
+        "unistd.h": "c",
+        "hotstuff.h": "c",
+        "thres_signature.h": "c"
+    }
+}
